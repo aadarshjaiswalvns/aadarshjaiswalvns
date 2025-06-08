@@ -8,16 +8,14 @@
 # 💫 About Me:
 🔭 I’m currently working on personal projects involving Python, SQL, and Power BI dashboards to strengthen my data storytelling and visualization skills.<br><br>👯 I’m looking to collaborate on open-source data analysis projects, internships, or case studies that require data cleaning, EDA, and predictive modeling.<br><br>🤝 I’m looking for help with Learning advanced machine learning techniques and mastering real-world data analytics project workflows.<br><br>🌱 I’m currently learning Advanced Excel, Tableau, and applying GenAI tools in data analysis workflows (like the Tata iQ simulation).<br><br>💬 Ask me about How beginners can start in data analytics, my experience with Forage job simulations, or tips on building a data portfolio.<br><br>⚡ Fun fact, I turned my curiosity about business decisions into a passion for uncovering stories hidden in data!
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/AadarshJaiswal007/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aa_da_r_sh/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarsh-jaiswal/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadarshjaiswal.vns@gmail.com) 
 
-<img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
-
 # 💻 Tech Stack:
+<img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 - ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 - ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
