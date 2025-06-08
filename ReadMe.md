@@ -1,3 +1,10 @@
+![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
+<h1 align="center">Hi 👋, I'm Bigyandutt Panda</h1>
+
+<h3 align="center">Welcome to my GitHub profile! I’m passionate about using data analytics to help businesses make smart decisions and grow. I have a solid background in tools like Excel, PowerBI, SQL. My goal is to blend technical know-how with business insight to create meaningful solutions.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shibindataanalyst&label=Profile%20views&color=0e75b6&style=flat" alt="Bigyanduttpanda" /> </p>
+
 # 💫 About Me:
 🔭 I’m currently working on personal projects involving Python, SQL, and Power BI dashboards to strengthen my data storytelling and visualization skills.<br><br>👯 I’m looking to collaborate on open-source data analysis projects, internships, or case studies that require data cleaning, EDA, and predictive modeling.<br><br>🤝 I’m looking for help with Learning advanced machine learning techniques and mastering real-world data analytics project workflows.<br><br>🌱 I’m currently learning Advanced Excel, Tableau, and applying GenAI tools in data analysis workflows (like the Tata iQ simulation).<br><br>💬 Ask me about How beginners can start in data analytics, my experience with Forage job simulations, or tips on building a data portfolio.<br><br>⚡ Fun fact, I turned my curiosity about business decisions into a passion for uncovering stories hidden in data!
 
