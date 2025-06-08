@@ -46,7 +46,6 @@ username=aadarshjaiswalvns&theme=holi&hide_border=false&include_all_commits=fals
 
 
 ### ✍️ Random Dev Quote
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
