@@ -3,7 +3,7 @@
 
 <h3 align="center">Welcome to my GitHub profile! I'm a results-driven Data Analyst skilled in Python, SQL, Power BI, and Excel, transforming complex data into actionable business solutions. With a background in operations and product management, I thrive on solving business challenges with data and delivering measurable impact. I'm passionate about continuous learning, hands-on problem-solving, and collaborating with diverse teams.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shibindataanalyst&label=Profile%20views&color=0e75b6&style=flat" alt="aadarsghaiswalvns" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadarshjaiswalvns&label=Profile%20views&color=0e75b6&style=flat" alt="aadarshaiswalvns" /> </p>
 
 
 # 💫 About Me:
