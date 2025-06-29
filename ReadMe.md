@@ -61,7 +61,7 @@
 | ![TATA](https://img.shields.io/badge/TATA-Data%20Visualisation-blue?logo=tata&style=for-the-badge) | Data Visualisation: Empowering Business with Effective Insights virtual job simulation | TATA - Forage | ![]( https://github.com/aadarshjaiswalvns/Data-Analytics-Portfolio/blob/main/Data_Visualisation_Tata.png) |
 | ![IBM](https://img.shields.io/badge/IBM-Data%20Visualisation%20with%20Python-blue?logo=ibm&style=for-the-badge) | Data Visualisation Badge with Python | IBM | ![]( https://github.com/aadarshjaiswalvns/Data-Analytics-Portfolio/blob/main/IBM_Certificate_of_Data_Visualisation_with_Python.png) |
 | ![TATA](https://img.shields.io/badge/TATA-Gen%20AI%20Powered%20Data%20Analyst%20Simulation-blue?logo=tata&style=for-the-badge) |Tata Group GenAI-Powered Data Analytics Job Simulation | TATA - Forage | ![](https://github.com/aadarshjaiswalvns/Data-Analytics-Portfolio/blob/main/GenAI_Powered_Data_Analytics_Job_Simulation_by_TATA.png) |
-| ![QUANTIUM](https://img.shields.io/badge/Quantium-Data%20Analyst%20Simulation-black?logo=quantium&style=for-the-badge) |Data Analyst Job Simulation | Quantium - Forage | ![](https://github.com/aadarshjaiswalvns/Data-Analytics-Portfolio/blob/main/Data_Analyst_Quantium.png) |
+| ![QUANTIUM](https://img.shields.io/badge/Quantium-Data%20Analytics%20Simulation-black?logo=quantium&style=for-the-badge) |Data Analytics Job Simulation | Quantium - Forage | ![](https://github.com/aadarshjaiswalvns/Data-Analytics-Portfolio/blob/main/Data_Analyst_Quantium.png) |
 
 ---
 
