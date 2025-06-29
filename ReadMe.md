@@ -68,7 +68,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-
+![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
 ---
 [![](https://visitcount.itsvg.in/api?id=aadarshjaiswalvns&icon=0&color=3)](https://visitcount.itsvg.in)
 
