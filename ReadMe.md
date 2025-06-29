@@ -45,6 +45,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aadarshjaiswalvns&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aadarshjaiswalvns&theme=react-dark&hide_border=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
