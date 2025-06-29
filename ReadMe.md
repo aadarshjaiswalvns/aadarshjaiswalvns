@@ -15,6 +15,7 @@
 
 🔭 I’m currently working on personal projects involving Python, SQL, and Power BI dashboards to strengthen my data storytelling and visualization skills.<br><br>👯 I’m looking to collaborate on open-source data analysis projects, internships, or case studies that require data cleaning, EDA, and predictive modeling.<br><br>🤝 I’m looking for help with Learning advanced machine learning techniques and mastering real-world data analytics project workflows.<br><br>🌱 I’m currently learning Advanced Excel, Tableau, and applying GenAI tools in data analysis workflows (like the Tata iQ simulation).<br><br>💬 Ask me about How beginners can start in data analytics, my experience with Forage job simulations, or tips on building a data portfolio.<br><br>⚡ Fun fact, I turned my curiosity about business decisions into a passion for uncovering stories hidden in data!
 
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/AadarshJaiswal007/) 
@@ -22,6 +23,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarsh-jaiswal/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadarshjaiswal.vns@gmail.com) 
 
+---
 
 # 💻 Tech Stack:
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
@@ -36,6 +38,7 @@
 - ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 - ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+---
 
 # 📊 GitHub Stats:
 
@@ -47,10 +50,12 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aadarshjaiswalvns&theme=react-dark&hide_border=true)
 
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aadarshjaiswalvns&icon=0&color=3)](https://visitcount.itsvg.in)
-![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
+
