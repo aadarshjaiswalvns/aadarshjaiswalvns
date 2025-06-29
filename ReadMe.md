@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Data+to+Decisions+%F0%9F%93%88;Lifelong+Learner+%F0%9F%92%A1" />
 </p>
-<h1 align="center">Hi 👋, I'm Aadarsh Jaiswal</h1>
 
 <h3 align="center">Welcome to my GitHub profile! I'm a results-driven Data Analyst skilled in Python, SQL, Power BI, and Excel, transforming complex data into actionable business solutions. With a background in operations and product management, I thrive on solving business challenges with data and delivering measurable impact. I'm passionate about continuous learning, hands-on problem-solving, and collaborating with diverse teams.</h3>
 
