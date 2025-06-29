@@ -65,7 +65,9 @@
 | ![Accenture](https://img.shields.io/badge/Accenture-Introduction%20to%20Technology%20Apprenticeship-blueviolet?logo=tata&style=for-the-badge) |Introduction to Technology Apprenticeship virtual experience | Accenture - Forage | ![](https://github.com/aadarshjaiswalvns/Data-Analytics-Portfolio/blob/main/Accenture_Certificate.png) |
 
 ---
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
+</p>
 ![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
 
 ---
