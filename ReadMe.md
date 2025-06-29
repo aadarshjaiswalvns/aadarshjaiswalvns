@@ -56,7 +56,7 @@
 
 | Badge | Certification | Issuer | Certificate Image |
 |-------|---------------|--------|--------------------|
-| ![Deloitte](https://img.shields.io/badge/Deloitte-Data%20Analyst%20Simulation-green?logo=deloitte&style=for-the-badge) | Data Analyst Job Simulation | Deloitte | ![]( https://github.com/aadarshjaiswalvns/Data-Analytics-Portfolio/blob/main/Deloitte_Data_Analytics.png) |
+| ![Deloitte](https://img.shields.io/badge/Deloitte-Data%20Analyst%20Simulation-green?logo=deloitte&style=for-the-badge) | Data Analyst Job Simulation | Deloitte - Forage | ![]( https://github.com/aadarshjaiswalvns/Data-Analytics-Portfolio/blob/main/Deloitte_Data_Analytics.png) |
 
 ---
 
